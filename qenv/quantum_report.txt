@@ -1,0 +1,7 @@
+QUANTUM DIABETES RISK PREDICTOR - PROJECT REPORT
+================================================
+Device: ThinkPad T580 (Linux Simulator)
+Quantum Architecture: VQC with 5 Qubits
+Optimizer: SPSA (200 Iterations)
+Final Accuracy: 51.30%
+================================================
